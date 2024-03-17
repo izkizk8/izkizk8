@@ -2,4 +2,8 @@
 
 [![izkizk8's Github](https://izkizk8.vercel.app/api/top-langs?username=izkizk8&theme=transparent&layout=compact&hide_border=true)](https://github.com/izkizk8)
 
-<p align="center"><img src='https://komarev.com/ghpvc/?username=izkizk8' /></p>
+<p align="right">
+    <a href='https://github.com/antonkomarev/github-profile-views-counter'>
+        <img src='https://komarev.com/ghpvc/?username=izkizk8' />
+    </a>
+</p>
